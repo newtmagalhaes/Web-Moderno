@@ -1,0 +1,16 @@
+{
+  "name": "06-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "049-export.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "axios": "^0.19.2"
+  }
+}
